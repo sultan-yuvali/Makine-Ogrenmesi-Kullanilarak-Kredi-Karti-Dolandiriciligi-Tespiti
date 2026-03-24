@@ -1,0 +1,1 @@
+# Makine-Ogrenmesi-Kullanilarak-Kredi-Karti-Dolandiriciligi-Tespiti
